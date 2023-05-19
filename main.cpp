@@ -7,15 +7,15 @@ int main() {
 
 	cout << "Scripting and Programming - Applications - C867" << endl;
 	cout << "Programming language: C++" << endl;
-	cout << "WGU student ID: 010713063" << endl;
-	cout << "Name: Curtis Cheshire" << endl << endl;
+	cout << "WGU student ID: *********" << endl;
+	cout << "Name: Curtis C" << endl << endl;
 	
 	const string studentData[] = {
 		"A1,John,Smith,John1989@gm ail.com,20,30,35,40,SECURITY",
 		"A2,Suzan,Erickson,Erickson_1990@gmailcom,19,50,30,40,NETWORK",
 		"A3,Jack,Napoli,The_lawyer99yahoo.com,19,20,40,33,SOFTWARE",
 		"A4,Erin,Black,Erin.black@comcast.net,22,50,58,40,SECURITY",
-		"A5,Curtis,Cheshire,cchesh3@wgu.edu,31,4,6,8,SOFTWARE"
+		"A5,Curtis,C,myemail@wgu.edu,31,4,6,8,SOFTWARE"
 	};
 
 	const int students = 5;
